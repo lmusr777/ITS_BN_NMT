@@ -1,5 +1,5 @@
 # ITS_BN_NMT
-МАН Попов 2025
+МАН Климова 2026
 
 Python 3.13
 pip install numpy
